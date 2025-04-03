@@ -1,4 +1,4 @@
-Hi 👋 My name is Dylan
+Hi 👋 My name is Dylan Goodwin
 ======================
 
 College Student
