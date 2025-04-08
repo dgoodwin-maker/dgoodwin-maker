@@ -27,6 +27,22 @@ Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 <p align="left"> <a href="https://www.github.com/dgoodwin-maker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dylan-goodwin-b6436922b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
+### Code Example from Group Project
+```javascript
+ function search_fact() {
+  let input = document.getElementById("searchbar").value.toLowerCase();
+  let x = document.getElementsByClassName("card");
+
+  for (let i = 0; i < x.length; i++) {
+    if (!x[i].innerHTML.toLowerCase().includes(input)) {
+      x[i].style.display = "none";
+    } else {
+      x[i].style.display = "list-item";
+    }
+  }
+}
+```
+
 
 
 
