@@ -11,7 +11,7 @@ I'm new here and learning. Information Technology student with focus in Cybersec
 
 * 🌍  I'm based in United States
 
-[Link to a group project repo](https://github.com/dgoodwin-maker/dev-easy-project)
+[Link to a group project repo](https://github.com/dgoodwin-maker/dev-easy-project) <br>
 Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 
 ### Skills
