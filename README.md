@@ -59,6 +59,14 @@ Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 -}
 ```
 
+<details>
+  <summary>
+    ## Dev Easy Project
+  </summary>
+  - This was a class project to collect facts and display them. <br>
+  - Authors mentioned above
+</details>
+
 
 
 <!-- ## Hi there 👋-->
