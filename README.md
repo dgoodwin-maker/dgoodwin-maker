@@ -1,7 +1,7 @@
 Hi 👋 My name is Dylan Goodwin
 ======================
 
-<img src="/images/scaryWorld.jpg" alt="Scary World">
+<img src="/images/scaryWorld.jpg" alt="Scary World" width="300" height="auto" >
 
 
 
