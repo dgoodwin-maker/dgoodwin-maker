@@ -43,6 +43,8 @@ Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 }
 ```
 
+the code 'link' here: https://github.com/dgoodwin-maker/dev-easy-project/blob/main/scripts/script.js#L119-L130
+
 
 
 
