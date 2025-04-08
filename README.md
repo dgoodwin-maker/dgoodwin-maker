@@ -1,6 +1,13 @@
 Hi 👋 My name is Dylan Goodwin
 ======================
 
+<img src="dgoodwin-maker/images/scaryWorld.jpg" alt="Scary World">
+
+
+
+
+
+
 College Student
 ---------------
 
