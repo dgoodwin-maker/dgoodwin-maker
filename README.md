@@ -42,6 +42,7 @@ I'm new here and learning. Information Technology student with focus in Cybersec
 }
 ```
 [the code 'link' here:](https://github.com/dgoodwin-maker/dev-easy-project/blob/main/scripts/script.js#L119-L130)
+<!-- I mean, it works but not how I want it to (want it to display) -->
 
 ```diff
 +function search_fact() {
