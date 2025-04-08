@@ -4,16 +4,14 @@ Hi 👋 My name is Dylan Goodwin
 <img src="/images/scaryWorld.jpg" alt="Scary World" width="300" height="auto" >
 
 
-
-
-
-
 College Student
 ---------------
 
-I'm new here and learning. I'm an Information Technology student with focus in Cybersecurity.
+I'm new here and learning. Information Technology student with focus in Cybersecurity.
 
 * 🌍  I'm based in United States
+
+[Link to a group project] (https://github.com/dgoodwin-maker/dev-easy-project)
 
 ### Skills
 
