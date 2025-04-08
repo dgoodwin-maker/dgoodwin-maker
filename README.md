@@ -11,8 +11,7 @@ I'm new here and learning. Information Technology student with focus in Cybersec
 
 * 🌍  I'm based in United States
 
-[dev-easy-group-project](https://github.com/dgoodwin-maker/dev-easy-project) <br>
-Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
+[dev-easy-group-project](https://github.com/dgoodwin-maker/dev-easy-project)
 
 ### Skills
 
@@ -64,7 +63,7 @@ Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
     Dev Easy Project
   </summary>
   - This was a class project to collect facts and display them. <br>
-  - Authors mentioned above
+  - Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 </details>
 
 
