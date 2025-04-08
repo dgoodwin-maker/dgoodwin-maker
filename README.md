@@ -67,7 +67,7 @@ I'm new here and learning. Information Technology student with focus in Cybersec
   - Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 </details>
 
-### **Quote**
+### *Quote*
 > “The mind is primary. The mind drags the body - struggling behind it - rarely the opposite." - Mark Twight
 
 
