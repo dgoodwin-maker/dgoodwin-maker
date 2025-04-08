@@ -45,7 +45,7 @@ Authors: Dylan Goodwin, Laura Lemoine, Carly Copley, and Matthew Wise
 the code 'link' here: https://github.com/dgoodwin-maker/dev-easy-project/blob/main/scripts/script.js#L119-L130
 
 ```diff
-+ function search_fact() {
++function search_fact() {
   let input = document.getElementById("searchbar").value.toLowerCase();
   let x = document.getElementsByClassName("card");
 
@@ -56,7 +56,7 @@ the code 'link' here: https://github.com/dgoodwin-maker/dev-easy-project/blob/ma
       x[i].style.display = "list-item";
     }
   }
-- }
+-}
 ```
 
 
