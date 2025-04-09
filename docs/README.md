@@ -1,7 +1,7 @@
 Hi 👋 My name is Dylan Goodwin - Made by Dylan Goodwin
 ======================
 
-<img src="/docs/scaryWorld.jpg" alt="Scary World" width="300" height="auto" >
+<img src="/docs/images/scaryWorld.jpg" alt="Scary World" width="300" height="auto" >
 
 
 College Student
